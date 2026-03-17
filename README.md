@@ -6,5 +6,15 @@
 - Developed modern UI using Java Swing
 - Integrated SQLite for persistent user data
 - Designed JSON-based messaging protocol
-- <img width="906" height="985" alt="image" src="https://github.com/user-attachments/assets/1c7d289f-2d71-49d6-bf7d-8bda19ee42f9" />
+-## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/login.png" width="45%" />
+  <img src="screenshots/chat.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="screenshots/ip.png" width="45%" />
+  <img src="screenshots/path.png" width="45%" />
+</p>
 
