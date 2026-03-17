@@ -1,0 +1,26 @@
+# Maven
+target/
+
+# Packaged apps / outputs
+LanChat/
+LanChat_new/
+app/
+runtime/
+*.exe
+*.msi
+
+# Database
+chat.db
+*.db
+
+# Media
+*.mp4
+*.zip
+
+# IntelliJ
+.idea/
+*.iml
+
+# OS
+Thumbs.db
+.DS_Store
